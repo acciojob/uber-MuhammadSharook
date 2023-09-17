@@ -25,11 +25,11 @@ public class Admin
         this.password = password;
     }
 
-    public int getAdminID() {
+    public int getAdminId() {
         return adminID;
     }
 
-    public void setAdminID(int adminID) {
+    public void setAdminId(int adminID) {
         this.adminID = adminID;
     }
 
